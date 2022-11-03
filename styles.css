@@ -1,0 +1,32 @@
+body {
+  background-color: #E3FDFD;
+}
+
+hr {
+  border-color:#71C9CE;
+  border-width: 5px;
+  border-style: none;
+  height: 0px;
+  align: center;
+  width: 100px;
+  border-style: none;
+  border-top-style: dotted;
+
+}
+h1 {
+  font-style: italic;
+  font-family:cursive;
+  color: #71C9CE;
+
+
+}
+
+h3 {
+  font-style: italic;
+  font-family:cursive;
+  color: #71C9CE
+}
+
+img{
+  height: 100px;
+}
